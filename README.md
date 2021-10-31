@@ -9,3 +9,6 @@ the input for a text classifier with the most adequate parameters to provide the
 accuracy, and ease of implementation.
 
 Topic Modelling (through the implementation of Latent Dirichlet Allocation) was used on a dataset of interviewer notes to attempt to classify whether or not the interviewer, followed best practice and was deemed 'Bar Raising'.
+
+## Topic Distribution using 30 Salient Terms
+![image](https://user-images.githubusercontent.com/16728800/139604239-aa93f538-19d9-49ea-af05-bbf25fe1b60a.png)
