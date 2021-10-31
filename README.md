@@ -1,4 +1,4 @@
-# Honours-Thesis
+# Honours Thesis
 The data for this project is confidential and has not been included in this repository. Only the output of the Jupyter notebook has been added. As well as the final thesis paper.
 
 The intention of this study is to create a more accurate version of the current pipeline that aims to
